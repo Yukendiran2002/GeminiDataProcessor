@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="GeminiDataProcessor",
+    name="gemini_data_processor",
     version="1.0.0",
     author="Yukendiran",
     author_email="yukendiranjayachandiran@gmail.com",
