@@ -1,5 +1,0 @@
-pandas
-tqdm
-google-generativeai
-nest-asyncio
-pytz
