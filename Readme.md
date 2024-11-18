@@ -17,11 +17,11 @@
 You can install the module using pip:
 
 ```bash
-pip install gemini-data-processor
+pip install gemini_data_processor
 ```
 
 ```python
-from gemini_data_processor import GeminiBot
+from gemini_batch_processor import GeminiBot
 
 bot = GeminiBot(
     input_file="input_data.csv",
@@ -32,6 +32,6 @@ bot = GeminiBot(
 )
 ```
 ```python
-from gemini_data_processor import GeminiBot
+from gemini_batch_processor import GeminiBot
 GeminiBot.model_list(api_key="your_api_key")
 ```
