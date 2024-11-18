@@ -17,7 +17,7 @@
 You can install the module using pip:
 
 ```bash
-pip install gemini_data_processor
+pip install gemini_batch_processor
 ```
 
 ```python
