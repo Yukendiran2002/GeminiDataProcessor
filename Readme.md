@@ -17,7 +17,7 @@
 You can install the module using pip:
 
 ```bash
-pip install git+https://github.com/yourusername/GeminiDataProcessor.git
+pip install gemini-data-processor
 ```
 
 ```python
@@ -33,5 +33,5 @@ bot = GeminiBot(
 ```
 ```python
 from gemini_data_processor import GeminiBot
-GeminiBot.model_list(api_key="AIzaSyBqBfd6PtYZRqG4u2Y0dysbQXLVZOZjquw")
+GeminiBot.model_list(api_key="your_api_key")
 ```
